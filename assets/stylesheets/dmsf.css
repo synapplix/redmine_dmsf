@@ -107,7 +107,7 @@ td.modified img {
 	vertical-align:text-top;
 }
 
-td.author {
+.controller-dmsf td.author {
 	font-size: 0.8em;
 }
 
